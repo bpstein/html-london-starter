@@ -22,7 +22,7 @@ HEADER
 ****************/
 
 h1 {
-  font-family: 'Lobster', Trebuchet, Helvetica, Times, sans-serif;
+  font-family: 'Arvo', Trebuchet, Helvetica, Times, sans-serif;
   font-size: 4.0em;
   text-decoration: none;
   padding: 0;
@@ -30,7 +30,7 @@ h1 {
 }
 
 h2 {
-  font-family: 'Lobster', Trebuchet, Helvetica, Times, sans-serif;
+  font-family: 'Arvo', Trebuchet, Helvetica, Times, sans-serif;
   font-size: 2.5em;
   text-decoration: none;
   padding: 0;
@@ -38,7 +38,7 @@ h2 {
 }
 
 h3 {
-  font-family: 'Signika', Trebuchet, Helvetica, Times, sans-serif;
+  font-family: 'Arvo', Trebuchet, Helvetica, Times, sans-serif;
   font-size: 1.2em;
   text-decoration: none;
   padding:  0 0 0;
@@ -55,12 +55,12 @@ h3 {
   font-size: 1.2em;
   font-weight: bold;
   color: white;
-  font-family: 'Signika', Trebuchet, Helvetica, Times, sans-serif;
+  font-family: 'Arvo', Trebuchet, Helvetica, Times, sans-serif;
   background: #222B36;
 }
 
 p {
-  font-family: 'Signika', Trebuchet, Helvetica, Times, sans-serif;
+  font-family: 'Arvo', Trebuchet, Helvetica, Times, sans-serif;
 }
 
 a {
@@ -329,7 +329,7 @@ CONTACT SECTION
   text-decoration: none;
   color: black;
   font-size: 1.3em;
-  font-family: 'Signika', Trebuchet, Helvetica, Times, sans-serif;
+  font-family: 'Arvo', Trebuchet, Helvetica, Times, sans-serif;
 }
 
 .contact-pic {
